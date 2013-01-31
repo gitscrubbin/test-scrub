@@ -4,4 +4,4 @@ test-scrub
 scrub scrub scrub
 
 
-<iframe scr='http://google.com'></iframe>
+<iframe src='http://google.com'></iframe>
